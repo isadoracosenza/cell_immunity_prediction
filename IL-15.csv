@@ -1,0 +1,13 @@
+,sequence,response,result,source_accession,source_database
+0,YTTGAVRQIFGDYKTTICGK,IL-15 release,Positive,,
+1,PYILLVSSKVSTVKD,IL-15 release,Positive,,
+2,GEALSTLVVNKIRGT,IL-15 release,Positive,,
+3,GEALSTLVLNRLKVG,IL-15 release,Positive,,
+4,MEVGWYRSPFSRVVHLYRNGK,IL-15 release,Positive,,
+5,SQEPMSIYVYALPLKMLNIPSINVHHYP,IL-15 release,Positive,,
+6,STDYYQELQRDISEMFLQIYKQGGFLGLSNIKFRPGSVV,IL-15 release,Positive,,
+7,LAEIETDKATIGFEVQ,IL-15 release,Negative,,
+8,,IL-15 release,Negative,CHEBI:76719,ChEBI
+9,,IL-15 release,Negative,CHEBI:76719,ChEBI
+10,,IL-15 release,Negative,CHEBI:76719,ChEBI
+11,,IL-15 release,Negative,SRC551293,IEDB
